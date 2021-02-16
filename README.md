@@ -1,5 +1,6 @@
 # automationintesting
 This is Pilot project to automate Booking a Single Room functionality using BDD framework (Cucumber), Java.
+
 Pre-requisite:
 1. Install Java
 2. Set java path in Environemnt variable 
