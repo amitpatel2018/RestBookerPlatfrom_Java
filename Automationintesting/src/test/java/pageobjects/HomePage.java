@@ -12,7 +12,7 @@ public class HomePage extends BasePage{
 	
 	
 	By bookThisRoom = By.xpath("//button[text()[contains(.,'Book this room')]]");
-	By dateTwentyOne = By.cssSelector(".rbc-month-view > div:nth-child(5) .rbc-row-bg .rbc-day-bg:nth-child(1)");
+	By dateTwentyOne = By.cssSelector(".rbc-month-view > div:nth-child(5) .rbc-row-bg .rbc-day-bg:nth-child(2)");
 	By firstName = By.name("firstname");
 	By lastName = By.name("lastname");
 	By email = By.name("email");
